@@ -2,8 +2,6 @@
 
 This repository contains a dataset of domestic airline flights in India, including **flight details, schedules, travel classes, and ticket prices**. It is suitable for projects involving **exploratory data analysis (EDA), flight price prediction, or travel trend analysis**.
 
-![Flight Price Distribution](Visualization.png)
-
 ## Dataset Description
 
 | Column Name        | Description                                                                 |
@@ -26,7 +24,9 @@ This repository contains a dataset of domestic airline flights in India, includi
 This dataset can be used for:  
 - Exploratory Data Analysis (EDA)  
 - Flight price prediction models  
-- Analyzing travel patterns and trends  
+- Analyzing travel patterns and trends
+
+  ![Flight Price Distribution](Visualization.png)
 
 ## File Format
 
