@@ -32,7 +32,3 @@ This dataset can be used for:
 
 - The dataset is available in `.xlsx` format (or `.pbix` if using Power BI).  
 - Ensure that your environment can read the file type you choose to work with.
-
-## Notes
-
-- `departure_time` and `arrival_time` are ca
